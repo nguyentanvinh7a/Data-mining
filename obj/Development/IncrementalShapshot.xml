@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -26,14 +26,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>YCqY63RdSVir5MBSGZ7eQ1lRl6o=12/14/2021 4:45:58 PM12/14/2021 4:11:17 PM</TimeStamp>
+        <TimeStamp>BNsAUXWADuYm/i5amG32I9ZZaXE=12/14/2021 5:10:03 PM12/14/2021 4:11:17 PM</TimeStamp>
         <ID>
           <String>Adventure Works DW2014</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.MiningStructure</Type>
-        <TimeStamp>hFazzmJKCcmgUMkm8Xxi8oY/M4Q=12/14/2021 4:46:36 PM12/14/2021 4:45:58 PM</TimeStamp>
+        <TimeStamp>pUfqfjHKfRywlsqzD5fLIEV21c4=12/14/2021 8:06:46 PM12/14/2021 8:06:26 PM</TimeStamp>
         <ID>
           <String>v Assoc Seq Orders</String>
         </ID>
@@ -50,5 +50,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2021-12-14T09:46:37.723333Z</LastDeployed>
+  <LastDeployed>2021-12-14T14:41:27.896667Z</LastDeployed>
 </DeploymentSnapshot>
